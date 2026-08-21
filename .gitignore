@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build output and logs
+dist/
+build/
+*.log
+
+# Local developer-tool settings
+project.private.config.json

@@ -1,0 +1,10 @@
+{
+  "name": "douyin-mini-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "一个可直接导入抖音开发者工具的原生 JavaScript 小游戏基础模板",
+  "scripts": {
+    "check": "node scripts/check-project.js"
+  },
+  "license": "MIT"
+}
